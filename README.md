@@ -174,16 +174,6 @@ Hi 👋, I'm <span style="color:#00C4FF;">Falak Naz Malik</span>
 
 ---
 
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=FALAKNAZMALICK&style=for-the-badge&color=blue"/>
-
-</p>
-
----
-
 # 💖 Support
 
 If you like my work,
