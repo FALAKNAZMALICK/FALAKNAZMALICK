@@ -11,7 +11,7 @@ Hi 👋, I'm <span style="color:#00C4FF;">Falak Naz Malik</span>
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Cloud+Computing;Passionate+About+Open+Source;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Data+Scientist;Exploring+Artificial+Intelligence;Learning+Cloud+Computing;Passionate+About+Open+Source;Always+Learning+New+Technologies" />
 </p>
 
 ---
