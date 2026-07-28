@@ -37,14 +37,6 @@ Hi 👋, I'm <span style="color:#00C4FF;">Falak Naz Malik</span>
 - Open Source
 - Automation
 
-🎯 2025 Goals
-
-- Build impactful projects
-- Contribute to Open Source
-- Master React & Next.js
-- Learn Advanced AI
-- Improve DSA
-
 ⚡ Fun Fact
 
 > I love turning ideas into real-world applications.
@@ -134,34 +126,6 @@ Hi 👋, I'm <span style="color:#00C4FF;">Falak Naz Malik</span>
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FALAKNAZMALICK&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=FALAKNAZMALICK&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FALAKNAZMALICK&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FALAKNAZMALICK&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
@@ -197,20 +161,6 @@ Hi 👋, I'm <span style="color:#00C4FF;">Falak Naz Malik</span>
 | 📚 LMS | Learning Management System | MERN |
 | 💬 Chat App | Real-Time Messaging | Node.js |
 | 📊 Data Dashboard | Analytics Dashboard | React |
-
----
-
-# 📚 Certifications
-
-🏅 Cisco
-
-🏅 Meta
-
-🏅 Google Cloud
-
-🏅 AWS
-
-🏅 Oracle
 
 ---
 
