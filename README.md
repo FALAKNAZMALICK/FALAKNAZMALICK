@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <h1 align="center">
-Hi 👋, I'm <span style="color:#00C4FF;">Falak Naz Malik</span>
+Hi 👋, I'm <span style="color:#00C4FF;">Falak Naz</span>
 </h1>
 
 <h3 align="center">
